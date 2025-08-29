@@ -1,1 +1,7 @@
-fdghfhgfjhgjhgjhgjhjyh
+fdghfhgfjhgjhgjhgjhjyh  
+User@DESKTOP-232NNAB MINGW64 ~/Desktop/Github2 (master)
+$ git status             # Check what’s being tracked
+git add .              # Stage all changes
+git commit -m "Add all missing files"
+git push origin master   # Push to GitHub
+On branch master
